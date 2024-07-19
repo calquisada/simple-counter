@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    font-size: 50px;
+}
+
+span {
+    font-size: 100px;
+}
+
+#dec {
+    margin-right: 10px;
+    font-size: 20px;
+    color: red;
+}
+
+#res {
+    margin-right: 10px;
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+#inc {
+    margin-left: 10px;
+    font-size: 20px;
+    color: green;
+}
+
+.button-container {
+    margin-top: 10px;
+}
